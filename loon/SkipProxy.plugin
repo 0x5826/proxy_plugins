@@ -8,4 +8,4 @@
 # www.baidu.com: 网上国网、多看阅读、顺丰金融、广东农信、丰云行
 # yunbusiness.ccb.com: 建行生活
 # abchina.com.cn: 中国农业银行
-skip-proxy = www.baidu.com,yunbusiness.ccb.com,*.ccb.com,*.abchina.com.cn,*.cmbchina.com
+skip-proxy = www.baidu.com,yunbusiness.ccb.com,*.ccb.com,*.ccb.com.cn,*.abchina.com.cn,*.cmbchina.com
